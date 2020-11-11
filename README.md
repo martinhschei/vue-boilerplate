@@ -1,4 +1,4 @@
-# geo-dome
+# vue-boilerplate
 
 ## Project setup
 ```
